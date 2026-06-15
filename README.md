@@ -18,6 +18,9 @@ Hydro operators have to decide when to draw down limited water storage to supple
 - Achintya Paliwal (achintya.paliwal@monash.edu, GitHub: @AchintyaPaliwal)
 - Moulik Mandal (moulik.mandal@utas.edu.au, GitHub: @moulik2024)
 
+**Scratch space**
+
+Store any temporary or processed data can be stored in `/scratch/nf33/GC26-wind-hydro-droughts`
 
 This project is structured as following:
 
