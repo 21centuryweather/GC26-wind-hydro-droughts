@@ -1,16 +1,22 @@
-# Project title
+# THE COINCIDENCE OF WIND DROUGHTS AND HYDROLOGICAL DROUGHTS
 
-**Research area:**
+**Research context:**
 
-**Research questios:**
+Hydro operators have to decide when to draw down limited water storage to supplement the grid, and that decision becomes acute during droughts when reservoirs are falling and the timing of recharge is uncertain. 
+
+**Research question:**
+- Is there any relationship between the likelihood of wind droughts — sustained periods of low wind and wind power generation — and the occurrence of a hydrological drought?
 
 **Project Leads**
-* name, affiliation/github username
-* 
+* Madi Rosevear, madelaine.rosevear@utas.edu.au, Github: @mmr0
+* Mandy Freund, mandy.freund@unimelb.edu.au, Github: 
 
 **Project members:**
-* name, affiliation/github username
-* 
+- Meera Mohan (meera.mohan@monash.edu, GitHub: @meeramohan96)
+- Shrija Guragain(s.guragain@unsw.edu.au , GitHub: @shrija-g )
+- Nilusha Perera (n.thanippuliarachchige@utas.edu.au, GitHub: @nilutp79
+- Achintya Paliwal (achintya.paliwal@monash.edu, GitHub: @AchintyaPaliwal)
+- Moulik Mandal (moulik.mandal@utas.edu.au, GitHub: @moulik2024)
 
 
 This project is structured as following:
@@ -52,7 +58,7 @@ All tasks and activities will be managed through GitHub Issues. While most discu
 
 ### How to collaborate
 
-* **Main branch:** We want to keep things simple, if you are working on a notebook alone you can push changes to the main branch. Make sure to 1) only add and ccommit that file and nothing else, 2) pull from the remote repo and 3) push.
+* **Main branch:** We want to keep things simple, if you are working on a notebook alone you can push changes to the main branch. Make sure to 1) only add and commit that file and nothing else, 2) pull from the remote repo and 3) push.
 
 * **Working on a branch:** if you want to fix or propose a change to someone else code you will need to create a branch and open a pull request. Make sure you explain your suggestion in the pull request message. 
 
