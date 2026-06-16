@@ -9,7 +9,7 @@ Hydro operators have to decide when to draw down limited water storage to supple
 
 **Project Leads**
 * Madi Rosevear, madelaine.rosevear@utas.edu.au, Github: @mmr0
-* Mandy Freund, mandy.freund@unimelb.edu.au, Github: 
+* Mandy Freund, mandy.freund@unimelb.edu.au, Github: @climatefreund
 
 **Project members:**
 - Meera Mohan (meera.mohan@monash.edu, GitHub: @meeramohan96)
